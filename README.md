@@ -11,4 +11,4 @@
 
 ![two](https://github.com/zx6733090/TigerCurve/blob/master/two.gif) 
 
-![three](https://github.com/zx6733090/TigerCurve/blob/master/three.gif) 
+![three](https://github.com/zx6733090/TigerCurve/blob/master/three.jpg) 

@@ -75,7 +75,7 @@ function getCurve(period, targetValue, time) {
         }
         return func
     }
-},
+}
 //获取四个点曲线
 //@return {Array} 显示位置数组，null表示结束
 function getFourCurve(period, targetValue, time) {

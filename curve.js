@@ -8,7 +8,7 @@ function getCurve(period, targetValue, time) {
     var maxSpeed = 30
     if (time > 0) {
         //加速多少圈达到最大速度，表示停止的快慢
-        var easeCircle = 6
+        var easeCircle = 12
         var n = Math.max(parseInt(maxSpeed * time / period) - easeCircle, 1)
         //加速时间
         var t1 = time - (n * period + targetValue) / maxSpeed
